@@ -1196,14 +1196,14 @@
     "name": "FreeSurfer",
     "category": "Image Processing",
     "shortDescription": "A set of software tools for the study of cortical and subcortical anatomy",
-    "imageFile": "freesurfer.png",
+    "imageFile": "freesurferTODO.png",
     "mainURL": "https://freesurfer.net/",
     "repoURL": "https://github.com/freesurfer/freesurfer",
-    "principalDevelopers": "Eleftherios Garyfallidis, Matthew Brett, Bagrat Amirbekian, Ariel Rokem, Stefan van der Walt, Maxime Descoteaux, Ian Nimmo-Smith and DIPY Contributors",
+    "principalDevelopers": "Bruce Fischl, Doug Greve, TODO add other",
     "longDescription": "FreeSurfer is an open source software suite for processing and analyzing (human) brain MRI images with the following functionality: Skullstripping, Image Registration, Subcortical Segmentation, Cortical Surface Reconstruction, Cortical Segmentation, Cortical Thickness Estimation, Longitudinal Processing, fMRI Analysis, Tractography, FreeView Visualization GUI and more",
     "keywords": [
-      "todo1",
-      "todo2"
+      "TODO1",
+      "TODO2"
     ],
     "keyReferences": [
       {
