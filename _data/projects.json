@@ -1191,5 +1191,35 @@
     "dateSoftwareLastUpdated": "2021-05-11",
     "citationSearchString": "a89d23db5695b754bf735ce7c4a9c538aca0760e",
     "citationCount": "497"
+  },
+  {
+    "name": "FreeSurfer",
+    "category": "Image Processing",
+    "shortDescription": "A set of software tools for the study of cortical and subcortical anatomy",
+    "imageFile": "freesurfer.png",
+    "mainURL": "https://freesurfer.net/",
+    "repoURL": "https://github.com/freesurfer/freesurfer",
+    "principalDevelopers": "Eleftherios Garyfallidis, Matthew Brett, Bagrat Amirbekian, Ariel Rokem, Stefan van der Walt, Maxime Descoteaux, Ian Nimmo-Smith and DIPY Contributors",
+    "longDescription": "FreeSurfer is an open source software suite for processing and analyzing (human) brain MRI images with the following functionality: Skullstripping, Image Registration, Subcortical Segmentation, Cortical Surface Reconstruction, Cortical Segmentation, Cortical Thickness Estimation, Longitudinal Processing, fMRI Analysis, Tractography, FreeView Visualization GUI and more",
+    "keywords": [
+      "todo1",
+      "todo2"
+    ],
+    "keyReferences": [
+      {
+        "referenceText": "FreeSurfer",
+        "referenceURL": "https://doi.org/10.1016%2Fj.neuroimage.2012.01.021"
+      }
+    ],
+    "extraResources": [
+      {
+        "resourceType": "Tutorials",
+        "URL": "https://surfer.nmr.mgh.harvard.edu/fswiki/Tutorials"
+      }
+    ],
+    "dateAddedToMRHub": "2021-06-03",
+    "dateSoftwareLastUpdated": "2021-05-11",
+    "citationSearchString": "a89d23db5695b754bf735ce7c4a9c538aca0760e",
+    "citationCount": "497"
   }
 ]
